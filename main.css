@@ -1,4 +1,4 @@
-/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Your Name */
+/* Primary style sheet for the San Joaquin Valley Town Hall website Author: Your Name */
 /* Single Line Comment*/
 /*
     Multi
@@ -7,3 +7,4 @@
 */
 
 .content { background-color: blue;}
+    body{background-color: green;}
